@@ -13,3 +13,4 @@ Temporary commit content 162
 Temporary commit content 195
 Temporary commit content 198
 0175. 📚 docs: add API usage examples
+0469. 🚀 perf: lazy-load components
