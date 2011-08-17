@@ -26,3 +26,4 @@ Temporary commit content 198
 0213. ✅ test: add integration test for /submit endpoint
 0153. ♻️ chore: rename env.example
 0231. 🔧 refactor: clean up auth middleware
+0906. 📚 docs: add API usage examples
