@@ -32,3 +32,4 @@ Temporary commit content 198
 0427. ✅ test: mock database connection in test suite
 0362. 📚 docs: add API usage examples
 0681. ✨ feat: create admin dashboard
+0752. ✅ test: add integration test for /submit endpoint
