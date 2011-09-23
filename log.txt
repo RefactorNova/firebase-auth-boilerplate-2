@@ -36,3 +36,4 @@ Temporary commit content 198
 0464. 🎨 style: remove trailing whitespace
 0006. 🐛 fix: prevent crash on empty input
 0437. 📚 docs: clarify environment setup
+0508. ✅ test: add unit test for quiz service
