@@ -38,3 +38,4 @@ Temporary commit content 198
 0437. 📚 docs: clarify environment setup
 0508. ✅ test: add unit test for quiz service
 0353. ♻️ chore: rename env.example
+0683. ✅ test: mock database connection in test suite
