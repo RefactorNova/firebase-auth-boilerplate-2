@@ -43,3 +43,4 @@ Temporary commit content 198
 0436. ✅ test: add integration test for /submit endpoint
 0964. ♻️ chore: clean up unused files
 0259. 🚀 perf: lazy-load components
+0127. 🐛 fix: fix null pointer exception on login
