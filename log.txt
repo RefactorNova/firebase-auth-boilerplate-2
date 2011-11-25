@@ -46,3 +46,4 @@ Temporary commit content 198
 0127. 🐛 fix: fix null pointer exception on login
 0377. ✨ feat: add user authentication
 0636. ✅ test: increase coverage on auth module
+0206. 🐛 fix: handle 500 error in quiz API
