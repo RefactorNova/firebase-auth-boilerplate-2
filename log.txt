@@ -47,3 +47,4 @@ Temporary commit content 198
 0377. ✨ feat: add user authentication
 0636. ✅ test: increase coverage on auth module
 0206. 🐛 fix: handle 500 error in quiz API
+0276. ✅ test: add integration test for /submit endpoint
