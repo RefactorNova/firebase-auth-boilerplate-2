@@ -51,3 +51,4 @@ Temporary commit content 198
 0927. ♻️ chore: bump dependencies
 0705. 🔧 refactor: refactor quiz grading logic
 0340. 🚀 perf: optimize database query for quiz results
+0621. 🔧 refactor: clean up auth middleware
