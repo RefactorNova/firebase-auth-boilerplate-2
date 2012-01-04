@@ -55,3 +55,4 @@ Temporary commit content 198
 0330. ✅ test: test user registration edge cases
 0316. 🐛 fix: fix broken CSS in mobile view
 0200. 🐛 fix: handle 500 error in quiz API
+0491. 🚀 perf: lazy-load components
