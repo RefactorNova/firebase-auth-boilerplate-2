@@ -64,3 +64,4 @@ Temporary commit content 198
 0881. 🔧 refactor: split large controller into smaller functions
 0616. 🚀 perf: lazy-load components
 0775. 🐛 fix: fix null pointer exception on login
+0625. 🐛 fix: handle 500 error in quiz API
