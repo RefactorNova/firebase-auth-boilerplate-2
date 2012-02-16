@@ -66,3 +66,4 @@ Temporary commit content 198
 0775. 🐛 fix: fix null pointer exception on login
 0625. 🐛 fix: handle 500 error in quiz API
 0883. 📚 docs: improve code comments in utils
+0536. ✨ feat: add user authentication
