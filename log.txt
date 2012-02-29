@@ -68,3 +68,4 @@ Temporary commit content 198
 0883. 📚 docs: improve code comments in utils
 0536. ✨ feat: add user authentication
 0640. ♻️ chore: bump dependencies
+0430. 🐛 fix: fix null pointer exception on login
