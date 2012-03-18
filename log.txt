@@ -72,3 +72,4 @@ Temporary commit content 198
 0411. ✅ test: add unit test for quiz service
 0445. 📚 docs: improve code comments in utils
 0416. 🎨 style: rename variables for clarity
+0902. ✨ feat: enable dark mode toggle
