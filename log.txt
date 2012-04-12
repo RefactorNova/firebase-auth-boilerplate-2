@@ -75,3 +75,4 @@ Temporary commit content 198
 0902. ✨ feat: enable dark mode toggle
 0836. 🚀 perf: optimize database query for quiz results
 0196. ♻️ chore: bump dependencies
+0575. ✅ test: add unit test for quiz service
