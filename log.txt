@@ -83,3 +83,4 @@ Temporary commit content 198
 0585. 🚀 perf: lazy-load components
 0913. 🚀 perf: optimize database query for quiz results
 0233. 🚀 perf: lazy-load components
+0889. 🚀 perf: lazy-load components
