@@ -84,3 +84,4 @@ Temporary commit content 198
 0913. 🚀 perf: optimize database query for quiz results
 0233. 🚀 perf: lazy-load components
 0889. 🚀 perf: lazy-load components
+0571. 🔧 refactor: clean up auth middleware
