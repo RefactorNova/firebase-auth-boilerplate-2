@@ -86,3 +86,4 @@ Temporary commit content 198
 0889. 🚀 perf: lazy-load components
 0571. 🔧 refactor: clean up auth middleware
 0162. ♻️ chore: add GitHub actions badge
+0459. 🔧 refactor: organize models into subfolders
