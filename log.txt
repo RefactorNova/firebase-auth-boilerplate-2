@@ -89,3 +89,4 @@ Temporary commit content 198
 0459. 🔧 refactor: organize models into subfolders
 0812. 🔧 refactor: refactor quiz grading logic
 0052. 🎨 style: standardize quote style
+0150. 🎨 style: remove trailing whitespace
