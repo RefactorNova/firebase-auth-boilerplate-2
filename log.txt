@@ -92,3 +92,4 @@ Temporary commit content 198
 0150. 🎨 style: remove trailing whitespace
 0008. 🚀 perf: reduce image load time
 0691. 🎨 style: rename variables for clarity
+0152. ✨ feat: add user authentication
