@@ -94,3 +94,4 @@ Temporary commit content 198
 0691. 🎨 style: rename variables for clarity
 0152. ✨ feat: add user authentication
 0518. ✨ feat: support email verification
+0715. ✨ feat: create admin dashboard
