@@ -98,3 +98,4 @@ Temporary commit content 198
 0827. 🚀 perf: optimize database query for quiz results
 0659. 📚 docs: add API usage examples
 0839. 🎨 style: apply consistent indentation
+0892. ✅ test: add unit test for quiz service
