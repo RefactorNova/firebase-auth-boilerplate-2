@@ -101,3 +101,4 @@ Temporary commit content 198
 0892. ✅ test: add unit test for quiz service
 0940. 📚 docs: document token refresh logic
 0453. 🎨 style: standardize quote style
+0687. 🎨 style: remove trailing whitespace
