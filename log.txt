@@ -103,3 +103,4 @@ Temporary commit content 198
 0453. 🎨 style: standardize quote style
 0687. 🎨 style: remove trailing whitespace
 0550. 🔧 refactor: split large controller into smaller functions
+0789. ✨ feat: create admin dashboard
