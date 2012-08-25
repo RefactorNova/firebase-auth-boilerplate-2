@@ -107,3 +107,4 @@ Temporary commit content 198
 0685. ✅ test: test user registration edge cases
 0611. ✅ test: test user registration edge cases
 0671. 🐛 fix: fix null pointer exception on login
+0468. 📚 docs: update README with setup steps
