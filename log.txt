@@ -108,3 +108,4 @@ Temporary commit content 198
 0611. ✅ test: test user registration edge cases
 0671. 🐛 fix: fix null pointer exception on login
 0468. 📚 docs: update README with setup steps
+0961. 📚 docs: add API usage examples
