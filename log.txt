@@ -110,3 +110,4 @@ Temporary commit content 198
 0468. 📚 docs: update README with setup steps
 0961. 📚 docs: add API usage examples
 0094. 📚 docs: document token refresh logic
+0378. 🐛 fix: prevent crash on empty input
