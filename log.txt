@@ -111,3 +111,4 @@ Temporary commit content 198
 0961. 📚 docs: add API usage examples
 0094. 📚 docs: document token refresh logic
 0378. 🐛 fix: prevent crash on empty input
+0747. 🔧 refactor: clean up auth middleware
