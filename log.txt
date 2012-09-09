@@ -112,3 +112,4 @@ Temporary commit content 198
 0094. 📚 docs: document token refresh logic
 0378. 🐛 fix: prevent crash on empty input
 0747. 🔧 refactor: clean up auth middleware
+0422. 🔧 refactor: organize models into subfolders
