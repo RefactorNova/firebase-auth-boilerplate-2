@@ -114,3 +114,4 @@ Temporary commit content 198
 0747. 🔧 refactor: clean up auth middleware
 0422. 🔧 refactor: organize models into subfolders
 0905. ♻️ chore: bump dependencies
+0451. ✨ feat: support email verification
