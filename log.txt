@@ -117,3 +117,4 @@ Temporary commit content 198
 0451. ✨ feat: support email verification
 0053. ✅ test: increase coverage on auth module
 0743. 🎨 style: apply consistent indentation
+0107. 🐛 fix: prevent crash on empty input
