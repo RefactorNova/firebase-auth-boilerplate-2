@@ -119,3 +119,4 @@ Temporary commit content 198
 0743. 🎨 style: apply consistent indentation
 0107. 🐛 fix: prevent crash on empty input
 0948. 🐛 fix: fix broken CSS in mobile view
+0944. ✨ feat: add user authentication
