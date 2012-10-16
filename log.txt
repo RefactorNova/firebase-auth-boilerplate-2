@@ -122,3 +122,4 @@ Temporary commit content 198
 0944. ✨ feat: add user authentication
 0019. ✨ feat: enable dark mode toggle
 0878. 🔧 refactor: split large controller into smaller functions
+0900. 🐛 fix: handle 500 error in quiz API
