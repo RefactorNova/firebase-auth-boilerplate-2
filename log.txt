@@ -127,3 +127,4 @@ Temporary commit content 198
 0909. 🔧 refactor: organize models into subfolders
 0087. ✨ feat: add export to CSV option
 0059. ♻️ chore: bump dependencies
+0617. ✨ feat: support email verification
