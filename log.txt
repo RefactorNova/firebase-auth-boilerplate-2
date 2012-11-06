@@ -129,3 +129,4 @@ Temporary commit content 198
 0059. ♻️ chore: bump dependencies
 0617. ✨ feat: support email verification
 0229. 🚀 perf: optimize database query for quiz results
+0408. ♻️ chore: add GitHub actions badge
