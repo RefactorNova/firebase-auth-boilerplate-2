@@ -130,3 +130,4 @@ Temporary commit content 198
 0617. ✨ feat: support email verification
 0229. 🚀 perf: optimize database query for quiz results
 0408. ♻️ chore: add GitHub actions badge
+0602. 🔧 refactor: remove redundant code blocks
