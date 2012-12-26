@@ -134,3 +134,4 @@ Temporary commit content 198
 0111. 📚 docs: update README with setup steps
 0372. ✨ feat: add user authentication
 0366. 🔧 refactor: remove redundant code blocks
+0829. 🔧 refactor: organize models into subfolders
