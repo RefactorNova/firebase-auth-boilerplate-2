@@ -145,3 +145,4 @@ Temporary commit content 198
 0514. 🐛 fix: fix broken CSS in mobile view
 0432. 🎨 style: apply consistent indentation
 0481. ✅ test: add unit test for quiz service
+0848. 📚 docs: update README with setup steps
