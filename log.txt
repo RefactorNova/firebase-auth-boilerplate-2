@@ -146,3 +146,4 @@ Temporary commit content 198
 0432. 🎨 style: apply consistent indentation
 0481. ✅ test: add unit test for quiz service
 0848. 📚 docs: update README with setup steps
+0826. 📚 docs: clarify environment setup
