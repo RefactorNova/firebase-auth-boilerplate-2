@@ -152,3 +152,4 @@ Temporary commit content 198
 0329. 📚 docs: update README with setup steps
 0857. 🎨 style: rename variables for clarity
 0307. ✨ feat: support email verification
+0601. ✨ feat: implement quiz timer feature
