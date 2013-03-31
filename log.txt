@@ -153,3 +153,4 @@ Temporary commit content 198
 0857. 🎨 style: rename variables for clarity
 0307. ✨ feat: support email verification
 0601. ✨ feat: implement quiz timer feature
+0112. ✨ feat: enable dark mode toggle
