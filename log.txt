@@ -154,3 +154,4 @@ Temporary commit content 198
 0307. ✨ feat: support email verification
 0601. ✨ feat: implement quiz timer feature
 0112. ✨ feat: enable dark mode toggle
+0074. ♻️ chore: add GitHub actions badge
