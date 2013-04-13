@@ -155,3 +155,4 @@ Temporary commit content 198
 0601. ✨ feat: implement quiz timer feature
 0112. ✨ feat: enable dark mode toggle
 0074. ♻️ chore: add GitHub actions badge
+0675. 🔧 refactor: organize models into subfolders
