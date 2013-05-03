@@ -158,3 +158,4 @@ Temporary commit content 198
 0675. 🔧 refactor: organize models into subfolders
 0997. ✅ test: increase coverage on auth module
 0951. 🎨 style: rename variables for clarity
+0769. ✨ feat: create admin dashboard
