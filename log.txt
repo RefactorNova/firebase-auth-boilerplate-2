@@ -162,3 +162,4 @@ Temporary commit content 198
 0207. 🐛 fix: prevent crash on empty input
 0838. 🎨 style: standardize quote style
 0211. 🔧 refactor: remove redundant code blocks
+0568. 🐛 fix: handle 500 error in quiz API
