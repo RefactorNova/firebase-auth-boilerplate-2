@@ -163,3 +163,4 @@ Temporary commit content 198
 0838. 🎨 style: standardize quote style
 0211. 🔧 refactor: remove redundant code blocks
 0568. 🐛 fix: handle 500 error in quiz API
+0290. ✅ test: test user registration edge cases
