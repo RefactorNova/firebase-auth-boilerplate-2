@@ -166,3 +166,4 @@ Temporary commit content 198
 0290. ✅ test: test user registration edge cases
 0157. ✅ test: mock database connection in test suite
 0549. ✨ feat: enable dark mode toggle
+0423. ✅ test: mock database connection in test suite
