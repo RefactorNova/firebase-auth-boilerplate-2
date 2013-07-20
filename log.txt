@@ -172,3 +172,4 @@ Temporary commit content 198
 0080. ✨ feat: support email verification
 0589. 🐛 fix: fix broken CSS in mobile view
 0195. 📚 docs: clarify environment setup
+0569. 📚 docs: document token refresh logic
