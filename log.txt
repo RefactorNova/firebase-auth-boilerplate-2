@@ -177,3 +177,4 @@ Temporary commit content 198
 0560. 🎨 style: rename variables for clarity
 0619. ✨ feat: create admin dashboard
 0525. ✅ test: mock database connection in test suite
+0440. 📚 docs: update README with setup steps
