@@ -192,3 +192,4 @@ Temporary commit content 198
 0219. ✅ test: increase coverage on auth module
 0824. 🚀 perf: lazy-load components
 0016. 🎨 style: apply consistent indentation
+0099. 🚀 perf: reduce image load time
