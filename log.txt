@@ -193,3 +193,4 @@ Temporary commit content 198
 0824. 🚀 perf: lazy-load components
 0016. 🎨 style: apply consistent indentation
 0099. 🚀 perf: reduce image load time
+0638. 📚 docs: improve code comments in utils
