@@ -197,3 +197,4 @@ Temporary commit content 198
 0360. ✨ feat: add export to CSV option
 0399. ✅ test: mock database connection in test suite
 0204. 🎨 style: standardize quote style
+0548. 📚 docs: write FAQ section
