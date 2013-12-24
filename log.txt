@@ -198,3 +198,4 @@ Temporary commit content 198
 0399. ✅ test: mock database connection in test suite
 0204. 🎨 style: standardize quote style
 0548. 📚 docs: write FAQ section
+0552. 🐛 fix: fix null pointer exception on login
