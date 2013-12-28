@@ -200,3 +200,4 @@ Temporary commit content 198
 0548. 📚 docs: write FAQ section
 0552. 🐛 fix: fix null pointer exception on login
 0757. 🔧 refactor: remove redundant code blocks
+0981. 🚀 perf: lazy-load components
