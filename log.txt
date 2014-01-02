@@ -202,3 +202,4 @@ Temporary commit content 198
 0757. 🔧 refactor: remove redundant code blocks
 0981. 🚀 perf: lazy-load components
 0879. 🎨 style: standardize quote style
+0680. ♻️ chore: add GitHub actions badge
