@@ -203,3 +203,4 @@ Temporary commit content 198
 0981. 🚀 perf: lazy-load components
 0879. 🎨 style: standardize quote style
 0680. ♻️ chore: add GitHub actions badge
+0197. 📚 docs: update README with setup steps
