@@ -211,3 +211,4 @@ Temporary commit content 198
 0287. 📚 docs: write FAQ section
 0770. ♻️ chore: rename env.example
 0117. ✅ test: increase coverage on auth module
+0721. 🚀 perf: optimize database query for quiz results
