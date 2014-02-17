@@ -213,3 +213,4 @@ Temporary commit content 198
 0117. ✅ test: increase coverage on auth module
 0721. 🚀 perf: optimize database query for quiz results
 0271. ✅ test: add unit test for quiz service
+0871. ✅ test: add integration test for /submit endpoint
