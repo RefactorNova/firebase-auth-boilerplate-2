@@ -219,3 +219,4 @@ Temporary commit content 198
 0370. 🚀 perf: reduce image load time
 0679. ♻️ chore: bump dependencies
 0496. ✅ test: add integration test for /submit endpoint
+0128. ♻️ chore: rename env.example
