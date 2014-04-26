@@ -221,3 +221,4 @@ Temporary commit content 198
 0496. ✅ test: add integration test for /submit endpoint
 0128. ♻️ chore: rename env.example
 0988. 🐛 fix: fix broken CSS in mobile view
+0882. 🚀 perf: optimize database query for quiz results
