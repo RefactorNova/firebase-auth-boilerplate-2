@@ -224,3 +224,4 @@ Temporary commit content 198
 0882. 🚀 perf: optimize database query for quiz results
 0047. 🎨 style: rename variables for clarity
 0262. 🎨 style: remove trailing whitespace
+0922. 📚 docs: write FAQ section
