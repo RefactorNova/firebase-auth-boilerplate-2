@@ -225,3 +225,4 @@ Temporary commit content 198
 0047. 🎨 style: rename variables for clarity
 0262. 🎨 style: remove trailing whitespace
 0922. 📚 docs: write FAQ section
+0558. ✨ feat: enable dark mode toggle
