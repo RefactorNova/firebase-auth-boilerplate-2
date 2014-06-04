@@ -227,3 +227,4 @@ Temporary commit content 198
 0922. 📚 docs: write FAQ section
 0558. ✨ feat: enable dark mode toggle
 0742. 📚 docs: clarify environment setup
+0205. 📚 docs: update README with setup steps
