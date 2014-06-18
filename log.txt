@@ -231,3 +231,4 @@ Temporary commit content 198
 0384. 📚 docs: clarify environment setup
 0523. ♻️ chore: bump dependencies
 0768. 🎨 style: remove trailing whitespace
+0476. 🚀 perf: reduce image load time
