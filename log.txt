@@ -232,3 +232,4 @@ Temporary commit content 198
 0523. ♻️ chore: bump dependencies
 0768. 🎨 style: remove trailing whitespace
 0476. 🚀 perf: reduce image load time
+0319. 🐛 fix: handle 500 error in quiz API
