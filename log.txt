@@ -238,3 +238,4 @@ Temporary commit content 198
 0783. 🐛 fix: handle 500 error in quiz API
 0245. 🐛 fix: resolve issue with date parsing
 0310. 🔧 refactor: refactor quiz grading logic
+0090. ✅ test: increase coverage on auth module
