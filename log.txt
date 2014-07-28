@@ -239,3 +239,4 @@ Temporary commit content 198
 0245. 🐛 fix: resolve issue with date parsing
 0310. 🔧 refactor: refactor quiz grading logic
 0090. ✅ test: increase coverage on auth module
+0116. ✨ feat: support email verification
