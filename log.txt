@@ -240,3 +240,4 @@ Temporary commit content 198
 0310. 🔧 refactor: refactor quiz grading logic
 0090. ✅ test: increase coverage on auth module
 0116. ✨ feat: support email verification
+0292. 📚 docs: clarify environment setup
