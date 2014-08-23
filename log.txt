@@ -243,3 +243,4 @@ Temporary commit content 198
 0292. 📚 docs: clarify environment setup
 0896. 🚀 perf: reduce image load time
 0011. ✅ test: add unit test for quiz service
+0286. ✅ test: mock database connection in test suite
