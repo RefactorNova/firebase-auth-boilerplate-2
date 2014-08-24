@@ -245,3 +245,4 @@ Temporary commit content 198
 0011. ✅ test: add unit test for quiz service
 0286. ✅ test: mock database connection in test suite
 0792. 🎨 style: standardize quote style
+0168. ✅ test: add integration test for /submit endpoint
