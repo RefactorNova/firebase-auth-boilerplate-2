@@ -251,3 +251,4 @@ Temporary commit content 198
 0923. ✨ feat: support email verification
 0765. ♻️ chore: clean up unused files
 0914. ✅ test: test user registration edge cases
+0029. 🚀 perf: lazy-load components
