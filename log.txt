@@ -252,3 +252,4 @@ Temporary commit content 198
 0765. ♻️ chore: clean up unused files
 0914. ✅ test: test user registration edge cases
 0029. 🚀 perf: lazy-load components
+0291. 📚 docs: write FAQ section
