@@ -253,3 +253,4 @@ Temporary commit content 198
 0914. ✅ test: test user registration edge cases
 0029. 🚀 perf: lazy-load components
 0291. 📚 docs: write FAQ section
+0167. 🚀 perf: reduce image load time
