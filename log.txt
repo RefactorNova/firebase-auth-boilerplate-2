@@ -255,3 +255,4 @@ Temporary commit content 198
 0291. 📚 docs: write FAQ section
 0167. 🚀 perf: reduce image load time
 0873. 🚀 perf: cache repeated calculations
+0341. 🚀 perf: lazy-load components
