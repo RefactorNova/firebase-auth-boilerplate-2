@@ -256,3 +256,4 @@ Temporary commit content 198
 0167. 🚀 perf: reduce image load time
 0873. 🚀 perf: cache repeated calculations
 0341. 🚀 perf: lazy-load components
+0870. ♻️ chore: clean up unused files
