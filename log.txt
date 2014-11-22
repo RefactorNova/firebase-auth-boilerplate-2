@@ -262,3 +262,4 @@ Temporary commit content 198
 0495. 🔧 refactor: remove redundant code blocks
 0133. 🐛 fix: fix null pointer exception on login
 0338. ♻️ chore: add GitHub actions badge
+0238. 🎨 style: apply consistent indentation
