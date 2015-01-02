@@ -268,3 +268,4 @@ Temporary commit content 198
 0710. 🐛 fix: fix broken CSS in mobile view
 0517. ✅ test: mock database connection in test suite
 0163. ✨ feat: implement quiz timer feature
+0343. 🚀 perf: optimize database query for quiz results
