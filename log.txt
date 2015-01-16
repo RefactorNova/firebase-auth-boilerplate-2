@@ -271,3 +271,4 @@ Temporary commit content 198
 0343. 🚀 perf: optimize database query for quiz results
 0694. 🎨 style: rename variables for clarity
 0193. 🚀 perf: optimize database query for quiz results
+0545. 🎨 style: standardize quote style
