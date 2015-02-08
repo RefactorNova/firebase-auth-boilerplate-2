@@ -274,3 +274,4 @@ Temporary commit content 198
 0545. 🎨 style: standardize quote style
 0761. ✅ test: add unit test for quiz service
 0833. ✨ feat: add user authentication
+0756. ✨ feat: support email verification
