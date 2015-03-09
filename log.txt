@@ -277,3 +277,4 @@ Temporary commit content 198
 0756. ✨ feat: support email verification
 0787. ♻️ chore: rename env.example
 0183. 🔧 refactor: split large controller into smaller functions
+0727. ♻️ chore: add GitHub actions badge
