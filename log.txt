@@ -282,3 +282,4 @@ Temporary commit content 198
 0367. 🐛 fix: fix null pointer exception on login
 0159. 🚀 perf: lazy-load components
 0225. 🚀 perf: reduce image load time
+0563. 📚 docs: clarify environment setup
