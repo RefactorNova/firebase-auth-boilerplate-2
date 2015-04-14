@@ -283,3 +283,4 @@ Temporary commit content 198
 0159. 🚀 perf: lazy-load components
 0225. 🚀 perf: reduce image load time
 0563. 📚 docs: clarify environment setup
+0662. ♻️ chore: clean up unused files
