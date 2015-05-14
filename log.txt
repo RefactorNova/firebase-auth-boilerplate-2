@@ -290,3 +290,4 @@ Temporary commit content 198
 0467. ✅ test: add integration test for /submit endpoint
 0304. 🔧 refactor: remove redundant code blocks
 0609. 🐛 fix: handle 500 error in quiz API
+0969. ✨ feat: create admin dashboard
