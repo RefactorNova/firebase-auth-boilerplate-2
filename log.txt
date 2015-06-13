@@ -294,3 +294,4 @@ Temporary commit content 198
 0934. ✨ feat: support email verification
 0654. ✨ feat: create admin dashboard
 0624. ✅ test: add unit test for quiz service
+0355. 🚀 perf: optimize database query for quiz results
