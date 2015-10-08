@@ -318,3 +318,4 @@ Temporary commit content 198
 0421. 🔧 refactor: split large controller into smaller functions
 0626. 🎨 style: standardize quote style
 0336. ✨ feat: add export to CSV option
+0791. 🔧 refactor: clean up auth middleware
