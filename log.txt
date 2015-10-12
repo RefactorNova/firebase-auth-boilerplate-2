@@ -319,3 +319,4 @@ Temporary commit content 198
 0626. 🎨 style: standardize quote style
 0336. ✨ feat: add export to CSV option
 0791. 🔧 refactor: clean up auth middleware
+0359. 🔧 refactor: clean up auth middleware
