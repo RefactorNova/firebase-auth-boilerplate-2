@@ -326,3 +326,4 @@ Temporary commit content 198
 0592. 📚 docs: add API usage examples
 0635. 🎨 style: apply consistent indentation
 0289. 🐛 fix: resolve issue with date parsing
+0102. ✨ feat: support email verification
