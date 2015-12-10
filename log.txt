@@ -329,3 +329,4 @@ Temporary commit content 198
 0102. ✨ feat: support email verification
 0946. ✅ test: add unit test for quiz service
 0699. 🎨 style: standardize quote style
+0642. 🚀 perf: optimize database query for quiz results
