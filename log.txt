@@ -334,3 +334,4 @@ Temporary commit content 198
 0454. ♻️ chore: bump dependencies
 0623. 🎨 style: standardize quote style
 0973. 🔧 refactor: organize models into subfolders
+0949. 📚 docs: write FAQ section
