@@ -337,3 +337,4 @@ Temporary commit content 198
 0949. 📚 docs: write FAQ section
 0248. 🐛 fix: handle 500 error in quiz API
 0690. 🚀 perf: lazy-load components
+0385. ♻️ chore: clean up unused files
