@@ -340,3 +340,4 @@ Temporary commit content 198
 0385. ♻️ chore: clean up unused files
 0306. 🎨 style: apply consistent indentation
 0695. ✨ feat: create admin dashboard
+0748. 🚀 perf: optimize database query for quiz results
