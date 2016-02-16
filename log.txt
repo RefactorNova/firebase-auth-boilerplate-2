@@ -350,3 +350,4 @@ Temporary commit content 198
 0622. 🎨 style: apply consistent indentation
 0295. 🎨 style: remove trailing whitespace
 0809. ♻️ chore: rename env.example
+0931. 🚀 perf: reduce image load time
