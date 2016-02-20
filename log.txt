@@ -352,3 +352,4 @@ Temporary commit content 198
 0809. ♻️ chore: rename env.example
 0931. 🚀 perf: reduce image load time
 0658. 🎨 style: rename variables for clarity
+0085. ✨ feat: support email verification
