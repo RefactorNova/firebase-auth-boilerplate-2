@@ -355,3 +355,4 @@ Temporary commit content 198
 0085. ✨ feat: support email verification
 0176. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
+0580. ♻️ chore: bump dependencies
