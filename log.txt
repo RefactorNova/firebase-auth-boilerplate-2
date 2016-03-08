@@ -356,3 +356,4 @@ Temporary commit content 198
 0176. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
 0580. ♻️ chore: bump dependencies
+0564. 📚 docs: clarify environment setup
