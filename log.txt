@@ -357,3 +357,4 @@ Temporary commit content 198
 0790. 📚 docs: write FAQ section
 0580. ♻️ chore: bump dependencies
 0564. 📚 docs: clarify environment setup
+0081. 🐛 fix: fix null pointer exception on login
