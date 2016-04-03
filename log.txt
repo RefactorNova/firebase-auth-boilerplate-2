@@ -363,3 +363,4 @@ Temporary commit content 198
 0703. 🔧 refactor: clean up auth middleware
 0739. 🎨 style: remove trailing whitespace
 0191. 🔧 refactor: refactor quiz grading logic
+0312. ✨ feat: add user authentication
