@@ -368,3 +368,4 @@ Temporary commit content 198
 0118. 🚀 perf: reduce image load time
 0237. 🎨 style: standardize quote style
 0887. 📚 docs: add API usage examples
+0201. 🔧 refactor: clean up auth middleware
