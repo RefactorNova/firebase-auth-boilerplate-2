@@ -374,3 +374,4 @@ Temporary commit content 198
 0800. 🚀 perf: optimize database query for quiz results
 0129. 🔧 refactor: organize models into subfolders
 0947. 📚 docs: write FAQ section
+0993. ✨ feat: implement quiz timer feature
