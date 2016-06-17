@@ -375,3 +375,4 @@ Temporary commit content 198
 0129. 🔧 refactor: organize models into subfolders
 0947. 📚 docs: write FAQ section
 0993. ✨ feat: implement quiz timer feature
+0181. ♻️ chore: add GitHub actions badge
