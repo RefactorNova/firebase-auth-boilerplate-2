@@ -378,3 +378,4 @@ Temporary commit content 198
 0181. ♻️ chore: add GitHub actions badge
 0234. ♻️ chore: rename env.example
 0903. ✅ test: mock database connection in test suite
+0463. 🚀 perf: reduce image load time
