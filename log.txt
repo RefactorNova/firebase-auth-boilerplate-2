@@ -385,3 +385,4 @@ Temporary commit content 198
 0247. 🎨 style: apply consistent indentation
 0221. ✨ feat: add user authentication
 0632. 🎨 style: remove trailing whitespace
+0114. ♻️ chore: update .gitignore
