@@ -386,3 +386,4 @@ Temporary commit content 198
 0221. ✨ feat: add user authentication
 0632. 🎨 style: remove trailing whitespace
 0114. ♻️ chore: update .gitignore
+0387. ✨ feat: enable dark mode toggle
