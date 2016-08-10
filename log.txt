@@ -388,3 +388,4 @@ Temporary commit content 198
 0114. ♻️ chore: update .gitignore
 0387. ✨ feat: enable dark mode toggle
 0397. 🐛 fix: handle 500 error in quiz API
+0177. 📚 docs: add API usage examples
