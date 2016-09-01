@@ -393,3 +393,4 @@ Temporary commit content 198
 0015. ✨ feat: implement quiz timer feature
 0002. 🚀 perf: cache repeated calculations
 0709. ♻️ chore: bump dependencies
+0023. 📚 docs: clarify environment setup
