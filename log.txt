@@ -394,3 +394,4 @@ Temporary commit content 198
 0002. 🚀 perf: cache repeated calculations
 0709. ♻️ chore: bump dependencies
 0023. 📚 docs: clarify environment setup
+0057. 🚀 perf: optimize database query for quiz results
