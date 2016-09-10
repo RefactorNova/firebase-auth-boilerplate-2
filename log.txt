@@ -397,3 +397,4 @@ Temporary commit content 198
 0057. 🚀 perf: optimize database query for quiz results
 0395. 📚 docs: write FAQ section
 0488. ♻️ chore: add GitHub actions badge
+0722. 📚 docs: add API usage examples
