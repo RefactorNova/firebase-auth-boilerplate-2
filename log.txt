@@ -404,3 +404,4 @@ Temporary commit content 198
 0674. 🔧 refactor: split large controller into smaller functions
 0373. 📚 docs: document token refresh logic
 0104. 🎨 style: apply consistent indentation
+0539. 🔧 refactor: organize models into subfolders
