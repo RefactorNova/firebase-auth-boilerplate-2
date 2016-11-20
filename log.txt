@@ -409,3 +409,4 @@ Temporary commit content 198
 0543. ✨ feat: support email verification
 0669. ✨ feat: enable dark mode toggle
 0521. 🎨 style: standardize quote style
+0955. 🔧 refactor: remove redundant code blocks
