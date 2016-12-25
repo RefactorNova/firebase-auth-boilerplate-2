@@ -417,3 +417,4 @@ Temporary commit content 198
 0347. ♻️ chore: update .gitignore
 0447. ♻️ chore: bump dependencies
 0822. 🔧 refactor: remove redundant code blocks
+0990. ♻️ chore: rename env.example
