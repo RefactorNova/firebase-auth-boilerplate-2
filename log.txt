@@ -418,3 +418,4 @@ Temporary commit content 198
 0447. ♻️ chore: bump dependencies
 0822. 🔧 refactor: remove redundant code blocks
 0990. ♻️ chore: rename env.example
+0977. 🔧 refactor: organize models into subfolders
