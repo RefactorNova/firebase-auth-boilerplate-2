@@ -421,3 +421,4 @@ Temporary commit content 198
 0977. 🔧 refactor: organize models into subfolders
 0782. 📚 docs: improve code comments in utils
 0576. ♻️ chore: update .gitignore
+0551. 📚 docs: write FAQ section
