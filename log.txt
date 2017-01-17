@@ -424,3 +424,4 @@ Temporary commit content 198
 0551. 📚 docs: write FAQ section
 0158. 📚 docs: clarify environment setup
 0044. ✅ test: add unit test for quiz service
+0649. 📚 docs: update README with setup steps
