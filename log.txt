@@ -426,3 +426,4 @@ Temporary commit content 198
 0044. ✅ test: add unit test for quiz service
 0649. 📚 docs: update README with setup steps
 0774. 🔧 refactor: refactor quiz grading logic
+0239. 🎨 style: standardize quote style
