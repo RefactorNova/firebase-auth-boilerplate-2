@@ -427,3 +427,4 @@ Temporary commit content 198
 0649. 📚 docs: update README with setup steps
 0774. 🔧 refactor: refactor quiz grading logic
 0239. 🎨 style: standardize quote style
+0140. 🐛 fix: handle 500 error in quiz API
