@@ -435,3 +435,4 @@ Temporary commit content 198
 0326. 🚀 perf: cache repeated calculations
 0750. 🎨 style: apply consistent indentation
 0352. ✨ feat: add export to CSV option
+0431. 🎨 style: reformat files with black
