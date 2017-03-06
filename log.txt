@@ -436,3 +436,4 @@ Temporary commit content 198
 0750. 🎨 style: apply consistent indentation
 0352. ✨ feat: add export to CSV option
 0431. 🎨 style: reformat files with black
+0734. ✨ feat: add export to CSV option
