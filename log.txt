@@ -438,3 +438,4 @@ Temporary commit content 198
 0431. 🎨 style: reformat files with black
 0734. ✨ feat: add export to CSV option
 0471. ✨ feat: support email verification
+0628. ♻️ chore: add GitHub actions badge
