@@ -442,3 +442,4 @@ Temporary commit content 198
 0100. ♻️ chore: update .gitignore
 0199. ✨ feat: create admin dashboard
 0807. 🔧 refactor: remove redundant code blocks
+0227. ✅ test: test user registration edge cases
