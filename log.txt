@@ -444,3 +444,4 @@ Temporary commit content 198
 0807. 🔧 refactor: remove redundant code blocks
 0227. ✅ test: test user registration edge cases
 0392. 🎨 style: remove trailing whitespace
+0884. 📚 docs: clarify environment setup
