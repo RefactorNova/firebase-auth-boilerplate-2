@@ -449,3 +449,4 @@ Temporary commit content 198
 0612. ✅ test: test user registration edge cases
 0135. ✅ test: test user registration edge cases
 0266. 🔧 refactor: remove redundant code blocks
+0220. 🐛 fix: fix null pointer exception on login
