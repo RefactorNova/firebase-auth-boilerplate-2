@@ -453,3 +453,4 @@ Temporary commit content 198
 0531. 🐛 fix: prevent crash on empty input
 0512. 🚀 perf: reduce image load time
 0627. 📚 docs: document token refresh logic
+0660. 🐛 fix: correct typo in registration form
