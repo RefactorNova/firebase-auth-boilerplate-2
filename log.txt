@@ -456,3 +456,4 @@ Temporary commit content 198
 0660. 🐛 fix: correct typo in registration form
 0754. 🐛 fix: handle 500 error in quiz API
 0368. 🚀 perf: lazy-load components
+0863. 🐛 fix: correct typo in registration form
