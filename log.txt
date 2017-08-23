@@ -463,3 +463,4 @@ Temporary commit content 198
 0501. ✨ feat: add export to CSV option
 0555. ✨ feat: create admin dashboard
 0982. 🚀 perf: lazy-load components
+0489. 🔧 refactor: organize models into subfolders
