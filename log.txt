@@ -469,3 +469,4 @@ Temporary commit content 198
 0943. 🎨 style: rename variables for clarity
 0296. 🔧 refactor: organize models into subfolders
 0776. ✅ test: add integration test for /submit endpoint
+0960. ✅ test: increase coverage on auth module
