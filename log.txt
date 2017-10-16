@@ -472,3 +472,4 @@ Temporary commit content 198
 0960. ✅ test: increase coverage on auth module
 0519. 📚 docs: document token refresh logic
 0582. ✨ feat: add export to CSV option
+0434. 📚 docs: document token refresh logic
