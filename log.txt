@@ -473,3 +473,4 @@ Temporary commit content 198
 0519. 📚 docs: document token refresh logic
 0582. ✨ feat: add export to CSV option
 0434. 📚 docs: document token refresh logic
+0335. ♻️ chore: update .gitignore
