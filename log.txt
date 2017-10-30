@@ -476,3 +476,4 @@ Temporary commit content 198
 0335. ♻️ chore: update .gitignore
 0795. 📚 docs: update README with setup steps
 0311. 🎨 style: apply consistent indentation
+0009. ✨ feat: enable dark mode toggle
