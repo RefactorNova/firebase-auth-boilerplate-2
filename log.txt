@@ -483,3 +483,4 @@ Temporary commit content 198
 0646. ✅ test: test user registration edge cases
 0912. 📚 docs: document token refresh logic
 0684. 🚀 perf: reduce image load time
+0823. ✨ feat: add user authentication
