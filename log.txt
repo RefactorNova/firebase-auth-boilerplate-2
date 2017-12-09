@@ -485,3 +485,4 @@ Temporary commit content 198
 0684. 🚀 perf: reduce image load time
 0823. ✨ feat: add user authentication
 0210. 🎨 style: apply consistent indentation
+0733. 🐛 fix: fix null pointer exception on login
