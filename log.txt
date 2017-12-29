@@ -487,3 +487,4 @@ Temporary commit content 198
 0210. 🎨 style: apply consistent indentation
 0733. 🐛 fix: fix null pointer exception on login
 0963. 🚀 perf: reduce image load time
+0962. ✨ feat: create admin dashboard
