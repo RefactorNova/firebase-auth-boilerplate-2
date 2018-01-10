@@ -489,3 +489,4 @@ Temporary commit content 198
 0963. 🚀 perf: reduce image load time
 0962. ✨ feat: create admin dashboard
 0401. 🚀 perf: reduce image load time
+0996. ✅ test: test user registration edge cases
