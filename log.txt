@@ -491,3 +491,4 @@ Temporary commit content 198
 0401. 🚀 perf: reduce image load time
 0996. ✅ test: test user registration edge cases
 0834. ✅ test: increase coverage on auth module
+0908. ♻️ chore: bump dependencies
