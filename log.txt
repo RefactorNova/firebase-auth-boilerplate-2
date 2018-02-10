@@ -492,3 +492,4 @@ Temporary commit content 198
 0996. ✅ test: test user registration edge cases
 0834. ✅ test: increase coverage on auth module
 0908. ♻️ chore: bump dependencies
+0032. 🎨 style: apply consistent indentation
