@@ -504,3 +504,4 @@ Temporary commit content 198
 0928. 🎨 style: apply consistent indentation
 0852. ✨ feat: enable dark mode toggle
 0109. 🚀 perf: lazy-load components
+0351. ✨ feat: add export to CSV option
