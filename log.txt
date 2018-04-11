@@ -508,3 +508,4 @@ Temporary commit content 198
 0983. 🔧 refactor: split large controller into smaller functions
 0363. 📚 docs: clarify environment setup
 0113. ✨ feat: add user authentication
+0141. 📚 docs: document token refresh logic
