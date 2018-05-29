@@ -516,3 +516,4 @@ Temporary commit content 198
 0405. ✅ test: mock database connection in test suite
 0856. 🐛 fix: fix null pointer exception on login
 0713. 🐛 fix: handle 500 error in quiz API
+0935. 📚 docs: update README with setup steps
