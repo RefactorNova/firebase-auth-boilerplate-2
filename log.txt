@@ -519,3 +519,4 @@ Temporary commit content 198
 0935. 📚 docs: update README with setup steps
 0725. 🚀 perf: lazy-load components
 0361. ✨ feat: support email verification
+0697. ♻️ chore: bump dependencies
