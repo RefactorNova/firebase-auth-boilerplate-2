@@ -522,3 +522,4 @@ Temporary commit content 198
 0697. ♻️ chore: bump dependencies
 0026. 🔧 refactor: clean up auth middleware
 0898. 🐛 fix: fix broken CSS in mobile view
+0187. ✨ feat: support email verification
