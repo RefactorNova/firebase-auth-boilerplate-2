@@ -524,3 +524,4 @@ Temporary commit content 198
 0898. 🐛 fix: fix broken CSS in mobile view
 0187. ✨ feat: support email verification
 0816. 🔧 refactor: organize models into subfolders
+0042. 📚 docs: document token refresh logic
