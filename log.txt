@@ -526,3 +526,4 @@ Temporary commit content 198
 0816. 🔧 refactor: organize models into subfolders
 0042. 📚 docs: document token refresh logic
 0149. ✨ feat: add export to CSV option
+0746. ♻️ chore: add GitHub actions badge
