@@ -528,3 +528,4 @@ Temporary commit content 198
 0149. ✨ feat: add export to CSV option
 0746. ♻️ chore: add GitHub actions badge
 0968. 🎨 style: standardize quote style
+0232. 🎨 style: apply consistent indentation
