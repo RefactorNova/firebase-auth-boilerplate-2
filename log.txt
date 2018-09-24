@@ -532,3 +532,4 @@ Temporary commit content 198
 0208. 🔧 refactor: clean up auth middleware
 0244. ✨ feat: add export to CSV option
 0185. 📚 docs: write FAQ section
+0862. ♻️ chore: bump dependencies
