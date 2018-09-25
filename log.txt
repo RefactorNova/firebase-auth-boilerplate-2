@@ -533,3 +533,4 @@ Temporary commit content 198
 0244. ✨ feat: add export to CSV option
 0185. 📚 docs: write FAQ section
 0862. ♻️ chore: bump dependencies
+0534. 🔧 refactor: split large controller into smaller functions
