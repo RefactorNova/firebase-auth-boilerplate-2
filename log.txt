@@ -535,3 +535,4 @@ Temporary commit content 198
 0862. ♻️ chore: bump dependencies
 0534. 🔧 refactor: split large controller into smaller functions
 0784. ♻️ chore: clean up unused files
+0443. 🎨 style: standardize quote style
