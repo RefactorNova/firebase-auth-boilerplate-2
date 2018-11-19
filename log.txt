@@ -540,3 +540,4 @@ Temporary commit content 198
 0850. ♻️ chore: rename env.example
 0828. ♻️ chore: add GitHub actions badge
 0509. ♻️ chore: bump dependencies
+0893. 🐛 fix: handle 500 error in quiz API
