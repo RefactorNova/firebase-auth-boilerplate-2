@@ -542,3 +542,4 @@ Temporary commit content 198
 0509. ♻️ chore: bump dependencies
 0893. 🐛 fix: handle 500 error in quiz API
 0317. ✅ test: test user registration edge cases
+0877. 🚀 perf: optimize database query for quiz results
