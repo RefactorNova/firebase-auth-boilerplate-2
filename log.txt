@@ -541,3 +541,4 @@ Temporary commit content 198
 0828. ♻️ chore: add GitHub actions badge
 0509. ♻️ chore: bump dependencies
 0893. 🐛 fix: handle 500 error in quiz API
+0317. ✅ test: test user registration edge cases
