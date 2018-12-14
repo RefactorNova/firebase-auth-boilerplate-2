@@ -545,3 +545,4 @@ Temporary commit content 198
 0877. 🚀 perf: optimize database query for quiz results
 0486. ✨ feat: add export to CSV option
 0415. 🐛 fix: handle 500 error in quiz API
+0383. 🐛 fix: fix broken CSS in mobile view
