@@ -548,3 +548,4 @@ Temporary commit content 198
 0383. 🐛 fix: fix broken CSS in mobile view
 0753. 🔧 refactor: remove redundant code blocks
 0186. ✅ test: test user registration edge cases
+0864. 🐛 fix: correct typo in registration form
