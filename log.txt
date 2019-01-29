@@ -550,3 +550,4 @@ Temporary commit content 198
 0186. ✅ test: test user registration edge cases
 0864. 🐛 fix: correct typo in registration form
 0586. 🎨 style: remove trailing whitespace
+0604. 📚 docs: add API usage examples
