@@ -552,3 +552,4 @@ Temporary commit content 198
 0586. 🎨 style: remove trailing whitespace
 0604. 📚 docs: add API usage examples
 0092. 🚀 perf: reduce image load time
+0061. ✨ feat: create admin dashboard
