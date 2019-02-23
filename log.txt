@@ -556,3 +556,4 @@ Temporary commit content 198
 0184. 📚 docs: improve code comments in utils
 0553. 🐛 fix: correct typo in registration form
 0529. 📚 docs: write FAQ section
+0797. 📚 docs: add API usage examples
