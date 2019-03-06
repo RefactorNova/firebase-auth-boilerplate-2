@@ -558,3 +558,4 @@ Temporary commit content 198
 0529. 📚 docs: write FAQ section
 0797. 📚 docs: add API usage examples
 0631. ✨ feat: create admin dashboard
+0929. ✨ feat: support email verification
