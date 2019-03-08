@@ -559,3 +559,4 @@ Temporary commit content 198
 0797. 📚 docs: add API usage examples
 0631. ✨ feat: create admin dashboard
 0929. ✨ feat: support email verification
+0334. 🚀 perf: cache repeated calculations
