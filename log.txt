@@ -561,3 +561,4 @@ Temporary commit content 198
 0929. ✨ feat: support email verification
 0334. 🚀 perf: cache repeated calculations
 0666. 🐛 fix: fix broken CSS in mobile view
+0985. 📚 docs: document token refresh logic
