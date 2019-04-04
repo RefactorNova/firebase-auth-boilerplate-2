@@ -562,3 +562,4 @@ Temporary commit content 198
 0334. 🚀 perf: cache repeated calculations
 0666. 🐛 fix: fix broken CSS in mobile view
 0985. 📚 docs: document token refresh logic
+0305. ✨ feat: enable dark mode toggle
