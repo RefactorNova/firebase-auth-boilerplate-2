@@ -563,3 +563,4 @@ Temporary commit content 198
 0666. 🐛 fix: fix broken CSS in mobile view
 0985. 📚 docs: document token refresh logic
 0305. ✨ feat: enable dark mode toggle
+0257. 📚 docs: clarify environment setup
