@@ -564,3 +564,4 @@ Temporary commit content 198
 0985. 📚 docs: document token refresh logic
 0305. ✨ feat: enable dark mode toggle
 0257. 📚 docs: clarify environment setup
+0254. 🚀 perf: reduce image load time
