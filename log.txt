@@ -565,3 +565,4 @@ Temporary commit content 198
 0305. ✨ feat: enable dark mode toggle
 0257. 📚 docs: clarify environment setup
 0254. 🚀 perf: reduce image load time
+0507. 🔧 refactor: clean up auth middleware
