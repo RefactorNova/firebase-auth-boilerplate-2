@@ -570,3 +570,4 @@ Temporary commit content 198
 0264. 🚀 perf: optimize database query for quiz results
 0315. ✅ test: add integration test for /submit endpoint
 0597. 🚀 perf: cache repeated calculations
+0736. 🐛 fix: fix null pointer exception on login
