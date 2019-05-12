@@ -572,3 +572,4 @@ Temporary commit content 198
 0597. 🚀 perf: cache repeated calculations
 0736. 🐛 fix: fix null pointer exception on login
 0222. 🐛 fix: handle 500 error in quiz API
+0706. ✨ feat: support email verification
