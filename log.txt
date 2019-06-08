@@ -578,3 +578,4 @@ Temporary commit content 198
 0520. 🐛 fix: fix null pointer exception on login
 0650. ✅ test: add unit test for quiz service
 0379. ✨ feat: support email verification
+0462. ♻️ chore: update .gitignore
