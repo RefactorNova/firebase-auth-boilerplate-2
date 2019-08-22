@@ -592,3 +592,4 @@ Temporary commit content 198
 0260. ✨ feat: create admin dashboard
 0124. 🎨 style: reformat files with black
 0995. ✅ test: mock database connection in test suite
+0024. 📚 docs: write FAQ section
