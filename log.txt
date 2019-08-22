@@ -593,3 +593,4 @@ Temporary commit content 198
 0124. 🎨 style: reformat files with black
 0995. ✅ test: mock database connection in test suite
 0024. 📚 docs: write FAQ section
+0049. 🐛 fix: handle 500 error in quiz API
