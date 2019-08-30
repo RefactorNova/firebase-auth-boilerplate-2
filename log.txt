@@ -597,3 +597,4 @@ Temporary commit content 198
 0475. 🔧 refactor: clean up auth middleware
 0031. 📚 docs: document token refresh logic
 0429. ✨ feat: add user authentication
+0737. 🐛 fix: handle 500 error in quiz API
