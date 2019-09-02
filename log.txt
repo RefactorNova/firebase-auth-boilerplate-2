@@ -598,3 +598,4 @@ Temporary commit content 198
 0031. 📚 docs: document token refresh logic
 0429. ✨ feat: add user authentication
 0737. 🐛 fix: handle 500 error in quiz API
+0035. ✅ test: increase coverage on auth module
