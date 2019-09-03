@@ -599,3 +599,4 @@ Temporary commit content 198
 0429. ✨ feat: add user authentication
 0737. 🐛 fix: handle 500 error in quiz API
 0035. ✅ test: increase coverage on auth module
+0880. 🐛 fix: fix broken CSS in mobile view
