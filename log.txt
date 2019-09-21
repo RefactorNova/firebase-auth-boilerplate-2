@@ -604,3 +604,4 @@ Temporary commit content 198
 0938. 🎨 style: rename variables for clarity
 0869. ♻️ chore: bump dependencies
 0577. ✨ feat: implement quiz timer feature
+0821. ✅ test: add integration test for /submit endpoint
