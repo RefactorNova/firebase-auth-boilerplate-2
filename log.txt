@@ -608,3 +608,4 @@ Temporary commit content 198
 0845. 🚀 perf: cache repeated calculations
 0441. 📚 docs: add API usage examples
 0331. 🐛 fix: fix broken CSS in mobile view
+0596. ♻️ chore: update .gitignore
