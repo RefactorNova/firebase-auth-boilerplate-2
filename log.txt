@@ -611,3 +611,4 @@ Temporary commit content 198
 0596. ♻️ chore: update .gitignore
 0726. ✨ feat: enable dark mode toggle
 0796. 🔧 refactor: refactor quiz grading logic
+0603. 🐛 fix: fix broken CSS in mobile view
