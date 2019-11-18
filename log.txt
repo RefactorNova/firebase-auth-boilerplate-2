@@ -619,3 +619,4 @@ Temporary commit content 198
 0502. 📚 docs: update README with setup steps
 0728. 🔧 refactor: split large controller into smaller functions
 0976. ✨ feat: implement quiz timer feature
+0192. ✨ feat: enable dark mode toggle
