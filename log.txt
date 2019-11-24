@@ -620,3 +620,4 @@ Temporary commit content 198
 0728. 🔧 refactor: split large controller into smaller functions
 0976. ✨ feat: implement quiz timer feature
 0192. ✨ feat: enable dark mode toggle
+0676. 🐛 fix: prevent crash on empty input
