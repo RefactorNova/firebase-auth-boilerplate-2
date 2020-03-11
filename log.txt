@@ -632,3 +632,4 @@ Temporary commit content 198
 0926. 🔧 refactor: organize models into subfolders
 0263. 📚 docs: add API usage examples
 0265. 🎨 style: reformat files with black
+0584. 🚀 perf: lazy-load components
