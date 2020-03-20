@@ -635,3 +635,4 @@ Temporary commit content 198
 0584. 🚀 perf: lazy-load components
 0357. ✅ test: add unit test for quiz service
 0318. 🔧 refactor: refactor quiz grading logic
+0749. ✨ feat: support email verification
