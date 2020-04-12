@@ -638,3 +638,4 @@ Temporary commit content 198
 0749. ✨ feat: support email verification
 0633. ✨ feat: add user authentication
 0091. ✨ feat: add user authentication
+0101. 📚 docs: clarify environment setup
