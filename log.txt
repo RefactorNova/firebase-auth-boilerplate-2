@@ -639,3 +639,4 @@ Temporary commit content 198
 0633. ✨ feat: add user authentication
 0091. ✨ feat: add user authentication
 0101. 📚 docs: clarify environment setup
+0511. 🐛 fix: fix broken CSS in mobile view
