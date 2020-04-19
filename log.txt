@@ -640,3 +640,4 @@ Temporary commit content 198
 0091. ✨ feat: add user authentication
 0101. 📚 docs: clarify environment setup
 0511. 🐛 fix: fix broken CSS in mobile view
+0281. ✨ feat: support email verification
