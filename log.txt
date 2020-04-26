@@ -641,3 +641,4 @@ Temporary commit content 198
 0101. 📚 docs: clarify environment setup
 0511. 🐛 fix: fix broken CSS in mobile view
 0281. ✨ feat: support email verification
+0698. 🐛 fix: handle 500 error in quiz API
