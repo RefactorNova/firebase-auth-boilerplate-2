@@ -642,3 +642,4 @@ Temporary commit content 198
 0511. 🐛 fix: fix broken CSS in mobile view
 0281. ✨ feat: support email verification
 0698. 🐛 fix: handle 500 error in quiz API
+0216. 🎨 style: rename variables for clarity
