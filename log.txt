@@ -651,3 +651,4 @@ Temporary commit content 198
 0717. 🔧 refactor: refactor quiz grading logic
 0203. 🚀 perf: lazy-load components
 0146. 🎨 style: apply consistent indentation
+0344. ♻️ chore: add GitHub actions badge
