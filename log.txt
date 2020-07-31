@@ -665,3 +665,4 @@ Temporary commit content 198
 0781. 🚀 perf: reduce image load time
 0223. 🔧 refactor: remove redundant code blocks
 0718. 🐛 fix: resolve issue with date parsing
+0249. ✅ test: increase coverage on auth module
