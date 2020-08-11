@@ -667,3 +667,4 @@ Temporary commit content 198
 0718. 🐛 fix: resolve issue with date parsing
 0249. ✅ test: increase coverage on auth module
 0148. 🔧 refactor: organize models into subfolders
+0865. ♻️ chore: add GitHub actions badge
