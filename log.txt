@@ -669,3 +669,4 @@ Temporary commit content 198
 0148. 🔧 refactor: organize models into subfolders
 0865. ♻️ chore: add GitHub actions badge
 0033. 🎨 style: apply consistent indentation
+0581. ✅ test: add integration test for /submit endpoint
