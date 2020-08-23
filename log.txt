@@ -672,3 +672,4 @@ Temporary commit content 198
 0581. ✅ test: add integration test for /submit endpoint
 0420. 🚀 perf: reduce image load time
 0932. ✅ test: add integration test for /submit endpoint
+0055. 📚 docs: update README with setup steps
