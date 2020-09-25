@@ -677,3 +677,4 @@ Temporary commit content 198
 0606. 📚 docs: improve code comments in utils
 0967. ♻️ chore: add GitHub actions badge
 0145. 📚 docs: improve code comments in utils
+0021. ✨ feat: support email verification
