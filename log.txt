@@ -682,3 +682,4 @@ Temporary commit content 198
 0533. ♻️ chore: add GitHub actions badge
 0482. ✨ feat: add export to CSV option
 0788. 📚 docs: add API usage examples
+0578. ✅ test: add integration test for /submit endpoint
