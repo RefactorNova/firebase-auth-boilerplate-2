@@ -685,3 +685,4 @@ Temporary commit content 198
 0578. ✅ test: add integration test for /submit endpoint
 0723. 🔧 refactor: remove redundant code blocks
 0156. 🎨 style: rename variables for clarity
+0804. ♻️ chore: add GitHub actions badge
