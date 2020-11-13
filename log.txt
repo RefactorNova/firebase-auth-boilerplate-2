@@ -687,3 +687,4 @@ Temporary commit content 198
 0156. 🎨 style: rename variables for clarity
 0804. ♻️ chore: add GitHub actions badge
 0151. ✅ test: add unit test for quiz service
+0097. 🐛 fix: handle 500 error in quiz API
