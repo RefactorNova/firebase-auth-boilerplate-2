@@ -693,3 +693,4 @@ Temporary commit content 198
 0235. 🐛 fix: fix null pointer exception on login
 0562. 🔧 refactor: clean up auth middleware
 0450. 🐛 fix: fix broken CSS in mobile view
+0062. ♻️ chore: update .gitignore
