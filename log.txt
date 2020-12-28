@@ -698,3 +698,4 @@ Temporary commit content 198
 0123. ✨ feat: implement quiz timer feature
 0298. ♻️ chore: update .gitignore
 0166. 🚀 perf: cache repeated calculations
+0013. ✅ test: increase coverage on auth module
