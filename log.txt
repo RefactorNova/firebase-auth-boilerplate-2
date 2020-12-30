@@ -699,3 +699,4 @@ Temporary commit content 198
 0298. ♻️ chore: update .gitignore
 0166. 🚀 perf: cache repeated calculations
 0013. ✅ test: increase coverage on auth module
+0473. 📚 docs: write FAQ section
