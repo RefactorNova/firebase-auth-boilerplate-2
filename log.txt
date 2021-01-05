@@ -701,3 +701,4 @@ Temporary commit content 198
 0013. ✅ test: increase coverage on auth module
 0473. 📚 docs: write FAQ section
 0818. 🔧 refactor: remove redundant code blocks
+0269. ✅ test: test user registration edge cases
