@@ -713,3 +713,4 @@ Temporary commit content 198
 0516. ✅ test: add unit test for quiz service
 0942. ✅ test: increase coverage on auth module
 0939. 📚 docs: update README with setup steps
+0673. 🐛 fix: correct typo in registration form
