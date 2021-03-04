@@ -715,3 +715,4 @@ Temporary commit content 198
 0939. 📚 docs: update README with setup steps
 0673. 🐛 fix: correct typo in registration form
 0574. ✨ feat: enable dark mode toggle
+0293. ✅ test: add integration test for /submit endpoint
