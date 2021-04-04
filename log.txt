@@ -719,3 +719,4 @@ Temporary commit content 198
 0566. 📚 docs: write FAQ section
 0707. 🎨 style: apply consistent indentation
 0241. 📚 docs: add API usage examples
+0066. 🔧 refactor: clean up auth middleware
