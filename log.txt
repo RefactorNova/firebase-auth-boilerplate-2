@@ -720,3 +720,4 @@ Temporary commit content 198
 0707. 🎨 style: apply consistent indentation
 0241. 📚 docs: add API usage examples
 0066. 🔧 refactor: clean up auth middleware
+0270. ♻️ chore: rename env.example
