@@ -722,3 +722,4 @@ Temporary commit content 198
 0066. 🔧 refactor: clean up auth middleware
 0270. ♻️ chore: rename env.example
 0064. 📚 docs: clarify environment setup
+0048. 📚 docs: update README with setup steps
