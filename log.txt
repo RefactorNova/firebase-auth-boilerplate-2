@@ -727,3 +727,4 @@ Temporary commit content 198
 0798. 🚀 perf: reduce image load time
 0615. 🐛 fix: correct typo in registration form
 0324. 📚 docs: document token refresh logic
+0345. 📚 docs: document token refresh logic
