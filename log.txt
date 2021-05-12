@@ -728,3 +728,4 @@ Temporary commit content 198
 0615. 🐛 fix: correct typo in registration form
 0324. 📚 docs: document token refresh logic
 0345. 📚 docs: document token refresh logic
+0888. 🚀 perf: lazy-load components
