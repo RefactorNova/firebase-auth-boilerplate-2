@@ -737,3 +737,4 @@ Temporary commit content 198
 0438. ♻️ chore: bump dependencies
 0598. 🔧 refactor: remove redundant code blocks
 0535. 📚 docs: write FAQ section
+0086. 🐛 fix: correct typo in registration form
