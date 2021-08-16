@@ -740,3 +740,4 @@ Temporary commit content 198
 0086. 🐛 fix: correct typo in registration form
 0719. 🎨 style: apply consistent indentation
 0046. 🎨 style: rename variables for clarity
+0406. ✨ feat: add export to CSV option
