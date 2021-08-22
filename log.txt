@@ -743,3 +743,4 @@ Temporary commit content 198
 0406. ✨ feat: add export to CSV option
 0065. ✅ test: add integration test for /submit endpoint
 0348. ✅ test: test user registration edge cases
+0160. ♻️ chore: bump dependencies
