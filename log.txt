@@ -747,3 +747,4 @@ Temporary commit content 198
 0670. ✨ feat: add export to CSV option
 0446. 🎨 style: apply consistent indentation
 0744. 🔧 refactor: remove redundant code blocks
+0711. 🐛 fix: fix broken CSS in mobile view
