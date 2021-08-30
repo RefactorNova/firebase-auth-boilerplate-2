@@ -746,3 +746,4 @@ Temporary commit content 198
 0160. ♻️ chore: bump dependencies
 0670. ✨ feat: add export to CSV option
 0446. 🎨 style: apply consistent indentation
+0744. 🔧 refactor: remove redundant code blocks
