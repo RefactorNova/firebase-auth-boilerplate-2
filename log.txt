@@ -750,3 +750,4 @@ Temporary commit content 198
 0711. 🐛 fix: fix broken CSS in mobile view
 0369. 🎨 style: standardize quote style
 0811. 🎨 style: reformat files with black
+0668. 🚀 perf: optimize database query for quiz results
