@@ -762,3 +762,4 @@ Temporary commit content 198
 0637. 🎨 style: apply consistent indentation
 0038. 🎨 style: rename variables for clarity
 0735. ♻️ chore: add GitHub actions badge
+0088. 📚 docs: add API usage examples
