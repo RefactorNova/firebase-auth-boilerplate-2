@@ -769,3 +769,4 @@ Temporary commit content 198
 0274. 🔧 refactor: refactor quiz grading logic
 0872. 🎨 style: rename variables for clarity
 0538. 🐛 fix: fix broken CSS in mobile view
+0526. ✨ feat: add user authentication
