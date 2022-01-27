@@ -772,3 +772,4 @@ Temporary commit content 198
 0526. ✨ feat: add user authentication
 0093. ✅ test: add unit test for quiz service
 0412. ✅ test: increase coverage on auth module
+0346. ✅ test: mock database connection in test suite
