@@ -775,3 +775,4 @@ Temporary commit content 198
 0346. ✅ test: mock database connection in test suite
 0442. 🎨 style: standardize quote style
 0171. 🐛 fix: fix broken CSS in mobile view
+0891. ✨ feat: create admin dashboard
