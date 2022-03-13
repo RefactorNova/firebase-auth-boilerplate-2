@@ -777,3 +777,4 @@ Temporary commit content 198
 0171. 🐛 fix: fix broken CSS in mobile view
 0891. ✨ feat: create admin dashboard
 0561. 📚 docs: write FAQ section
+0895. ✨ feat: support email verification
