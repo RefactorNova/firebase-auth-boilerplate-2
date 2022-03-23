@@ -778,3 +778,4 @@ Temporary commit content 198
 0891. ✨ feat: create admin dashboard
 0561. 📚 docs: write FAQ section
 0895. ✨ feat: support email verification
+0832. 🔧 refactor: remove redundant code blocks
