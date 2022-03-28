@@ -779,3 +779,4 @@ Temporary commit content 198
 0561. 📚 docs: write FAQ section
 0895. ✨ feat: support email verification
 0832. 🔧 refactor: remove redundant code blocks
+0858. ♻️ chore: clean up unused files
