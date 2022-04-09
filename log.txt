@@ -780,3 +780,4 @@ Temporary commit content 198
 0895. ✨ feat: support email verification
 0832. 🔧 refactor: remove redundant code blocks
 0858. ♻️ chore: clean up unused files
+0466. 🚀 perf: optimize database query for quiz results
