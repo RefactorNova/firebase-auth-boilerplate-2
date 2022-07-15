@@ -798,3 +798,4 @@ Temporary commit content 198
 0302. ✨ feat: implement quiz timer feature
 0253. 📚 docs: update README with setup steps
 0380. 🐛 fix: fix null pointer exception on login
+0565. ♻️ chore: add GitHub actions badge
