@@ -803,3 +803,4 @@ Temporary commit content 198
 0028. 🎨 style: standardize quote style
 0209. ✨ feat: implement quiz timer feature
 0258. 🐛 fix: prevent crash on empty input
+0950. 🎨 style: reformat files with black
