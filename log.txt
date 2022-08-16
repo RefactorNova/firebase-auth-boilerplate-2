@@ -804,3 +804,4 @@ Temporary commit content 198
 0209. ✨ feat: implement quiz timer feature
 0258. 🐛 fix: prevent crash on empty input
 0950. 🎨 style: reformat files with black
+0708. ✅ test: add integration test for /submit endpoint
