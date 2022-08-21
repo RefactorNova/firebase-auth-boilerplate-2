@@ -805,3 +805,4 @@ Temporary commit content 198
 0258. 🐛 fix: prevent crash on empty input
 0950. 🎨 style: reformat files with black
 0708. ✅ test: add integration test for /submit endpoint
+0493. ✨ feat: add user authentication
