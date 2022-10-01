@@ -812,3 +812,4 @@ Temporary commit content 198
 0456. 🚀 perf: optimize database query for quiz results
 0540. ♻️ chore: add GitHub actions badge
 0573. ✅ test: add integration test for /submit endpoint
+0480. ♻️ chore: add GitHub actions badge
