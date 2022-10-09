@@ -814,3 +814,4 @@ Temporary commit content 198
 0573. ✅ test: add integration test for /submit endpoint
 0480. ♻️ chore: add GitHub actions badge
 0979. 🎨 style: standardize quote style
+0435. ✅ test: add unit test for quiz service
