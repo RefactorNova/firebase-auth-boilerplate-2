@@ -819,3 +819,4 @@ Temporary commit content 198
 0639. 🐛 fix: correct typo in registration form
 0337. 📚 docs: document token refresh logic
 0428. 🐛 fix: fix null pointer exception on login
+0805. ♻️ chore: add GitHub actions badge
