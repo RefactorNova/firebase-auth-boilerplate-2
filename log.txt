@@ -826,3 +826,4 @@ Temporary commit content 198
 0180. ✨ feat: add export to CSV option
 0802. 🔧 refactor: remove redundant code blocks
 0076. 🎨 style: reformat files with black
+0693. 📚 docs: add API usage examples
