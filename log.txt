@@ -835,3 +835,4 @@ Temporary commit content 198
 0483. 📚 docs: update README with setup steps
 0098. 🎨 style: rename variables for clarity
 0390. 🎨 style: standardize quote style
+0595. ✨ feat: enable dark mode toggle
