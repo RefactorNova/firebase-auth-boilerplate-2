@@ -838,3 +838,4 @@ Temporary commit content 198
 0595. ✨ feat: enable dark mode toggle
 0994. 🚀 perf: reduce image load time
 0773. 📚 docs: document token refresh logic
+0741. 🎨 style: apply consistent indentation
