@@ -839,3 +839,4 @@ Temporary commit content 198
 0994. 🚀 perf: reduce image load time
 0773. 📚 docs: document token refresh logic
 0741. 🎨 style: apply consistent indentation
+0375. 🐛 fix: handle 500 error in quiz API
