@@ -841,3 +841,4 @@ Temporary commit content 198
 0741. 🎨 style: apply consistent indentation
 0375. 🐛 fix: handle 500 error in quiz API
 0178. ✨ feat: support email verification
+0433. 🐛 fix: prevent crash on empty input
