@@ -849,3 +849,4 @@ Temporary commit content 198
 0407. 🚀 perf: cache repeated calculations
 0793. 📚 docs: clarify environment setup
 0173. 🚀 perf: cache repeated calculations
+0136. 🚀 perf: lazy-load components
