@@ -853,3 +853,4 @@ Temporary commit content 198
 0917. ✅ test: add integration test for /submit endpoint
 0657. 🎨 style: standardize quote style
 0283. ♻️ chore: add GitHub actions badge
+0252. 🎨 style: remove trailing whitespace
