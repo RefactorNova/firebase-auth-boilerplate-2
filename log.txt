@@ -854,3 +854,4 @@ Temporary commit content 198
 0657. 🎨 style: standardize quote style
 0283. ♻️ chore: add GitHub actions badge
 0252. 🎨 style: remove trailing whitespace
+0096. 🐛 fix: prevent crash on empty input
