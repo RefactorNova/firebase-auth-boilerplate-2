@@ -855,3 +855,4 @@ Temporary commit content 198
 0283. ♻️ chore: add GitHub actions badge
 0252. 🎨 style: remove trailing whitespace
 0096. 🐛 fix: prevent crash on empty input
+0820. 📚 docs: add API usage examples
