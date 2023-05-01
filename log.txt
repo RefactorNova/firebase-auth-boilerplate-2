@@ -856,3 +856,4 @@ Temporary commit content 198
 0252. 🎨 style: remove trailing whitespace
 0096. 🐛 fix: prevent crash on empty input
 0820. 📚 docs: add API usage examples
+0763. 🔧 refactor: organize models into subfolders
