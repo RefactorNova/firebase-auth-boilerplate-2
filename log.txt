@@ -857,3 +857,4 @@ Temporary commit content 198
 0096. 🐛 fix: prevent crash on empty input
 0820. 📚 docs: add API usage examples
 0763. 🔧 refactor: organize models into subfolders
+0349. ✅ test: increase coverage on auth module
