@@ -862,3 +862,4 @@ Temporary commit content 198
 0645. 🐛 fix: resolve issue with date parsing
 0332. 🎨 style: standardize quote style
 0542. 🔧 refactor: organize models into subfolders
+0485. 📚 docs: update README with setup steps
