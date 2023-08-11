@@ -868,3 +868,4 @@ Temporary commit content 198
 0034. 📚 docs: improve code comments in utils
 0060. ♻️ chore: clean up unused files
 0751. 🐛 fix: handle 500 error in quiz API
+0841. 🚀 perf: optimize database query for quiz results
