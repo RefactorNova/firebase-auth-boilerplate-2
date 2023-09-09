@@ -874,3 +874,4 @@ Temporary commit content 198
 0799. ♻️ chore: clean up unused files
 0559. 🔧 refactor: split large controller into smaller functions
 0846. ✨ feat: implement quiz timer feature
+0803. ✅ test: mock database connection in test suite
