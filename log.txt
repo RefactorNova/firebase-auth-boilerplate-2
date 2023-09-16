@@ -877,3 +877,4 @@ Temporary commit content 198
 0803. ✅ test: mock database connection in test suite
 0978. 🐛 fix: prevent crash on empty input
 0350. 🚀 perf: cache repeated calculations
+0084. 🐛 fix: handle 500 error in quiz API
