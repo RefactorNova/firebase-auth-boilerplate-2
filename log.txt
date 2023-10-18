@@ -888,3 +888,4 @@ Temporary commit content 198
 0226. 🚀 perf: lazy-load components
 0682. ♻️ chore: rename env.example
 0215. 🎨 style: reformat files with black
+0137. 🎨 style: rename variables for clarity
