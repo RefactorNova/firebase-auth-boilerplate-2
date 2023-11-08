@@ -894,3 +894,4 @@ Temporary commit content 198
 0899. 🚀 perf: cache repeated calculations
 0729. 🔧 refactor: refactor quiz grading logic
 0365. 🚀 perf: reduce image load time
+0847. ♻️ chore: clean up unused files
