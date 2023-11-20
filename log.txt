@@ -897,3 +897,4 @@ Temporary commit content 198
 0847. ♻️ chore: clean up unused files
 0766. 🎨 style: reformat files with black
 0755. 🚀 perf: cache repeated calculations
+0875. ✅ test: increase coverage on auth module
