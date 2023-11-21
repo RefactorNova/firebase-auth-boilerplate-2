@@ -898,3 +898,4 @@ Temporary commit content 198
 0766. 🎨 style: reformat files with black
 0755. 🚀 perf: cache repeated calculations
 0875. ✅ test: increase coverage on auth module
+0866. 📚 docs: add API usage examples
