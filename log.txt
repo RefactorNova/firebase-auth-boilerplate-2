@@ -902,3 +902,4 @@ Temporary commit content 198
 0309. 🔧 refactor: refactor quiz grading logic
 0364. 🐛 fix: resolve issue with date parsing
 0696. 🔧 refactor: clean up auth middleware
+0243. 🔧 refactor: clean up auth middleware
