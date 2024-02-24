@@ -915,3 +915,4 @@ Temporary commit content 198
 0027. 📚 docs: clarify environment setup
 0641. 📚 docs: write FAQ section
 0547. 📚 docs: write FAQ section
+0653. 🐛 fix: prevent crash on empty input
