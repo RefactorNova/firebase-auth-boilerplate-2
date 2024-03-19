@@ -918,3 +918,4 @@ Temporary commit content 198
 0653. 🐛 fix: prevent crash on empty input
 0161. ✨ feat: create admin dashboard
 0667. ✨ feat: add export to CSV option
+0830. 🎨 style: apply consistent indentation
