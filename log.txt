@@ -919,3 +919,4 @@ Temporary commit content 198
 0161. ✨ feat: create admin dashboard
 0667. ✨ feat: add export to CSV option
 0830. 🎨 style: apply consistent indentation
+0147. ♻️ chore: bump dependencies
