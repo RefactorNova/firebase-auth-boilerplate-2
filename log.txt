@@ -924,3 +924,4 @@ Temporary commit content 198
 0886. ♻️ chore: clean up unused files
 0381. ♻️ chore: clean up unused files
 0300. ✨ feat: add export to CSV option
+0643. 🎨 style: apply consistent indentation
