@@ -926,3 +926,4 @@ Temporary commit content 198
 0300. ✨ feat: add export to CSV option
 0643. 🎨 style: apply consistent indentation
 0583. ✅ test: increase coverage on auth module
+0020. ✅ test: add integration test for /submit endpoint
