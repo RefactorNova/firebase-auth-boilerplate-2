@@ -931,3 +931,4 @@ Temporary commit content 198
 0738. 🐛 fix: prevent crash on empty input
 0308. 🚀 perf: reduce image load time
 0045. 🎨 style: apply consistent indentation
+0936. 🔧 refactor: organize models into subfolders
