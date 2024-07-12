@@ -939,3 +939,4 @@ Temporary commit content 198
 0083. 🎨 style: reformat files with black
 0901. ✨ feat: add user authentication
 0648. ♻️ chore: bump dependencies
+0758. 🚀 perf: optimize database query for quiz results
