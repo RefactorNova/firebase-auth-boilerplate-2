@@ -950,3 +950,4 @@ Temporary commit content 198
 0984. ♻️ chore: clean up unused files
 0959. 🐛 fix: fix null pointer exception on login
 0144. ✅ test: increase coverage on auth module
+0524. ♻️ chore: rename env.example
