@@ -952,3 +952,4 @@ Temporary commit content 198
 0144. ✅ test: increase coverage on auth module
 0524. ♻️ chore: rename env.example
 0172. 📚 docs: add API usage examples
+0478. 🐛 fix: resolve issue with date parsing
