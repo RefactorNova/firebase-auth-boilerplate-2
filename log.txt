@@ -956,3 +956,4 @@ Temporary commit content 198
 0474. ✅ test: add unit test for quiz service
 0010. ✨ feat: add user authentication
 0851. ✅ test: mock database connection in test suite
+0605. ✨ feat: support email verification
