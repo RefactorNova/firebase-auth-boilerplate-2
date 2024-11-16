@@ -963,3 +963,4 @@ Temporary commit content 198
 0303. 🎨 style: rename variables for clarity
 0275. 🎨 style: standardize quote style
 0945. ♻️ chore: add GitHub actions badge
+0484. 🐛 fix: handle 500 error in quiz API
