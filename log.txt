@@ -967,3 +967,4 @@ Temporary commit content 198
 0688. 🚀 perf: reduce image load time
 0279. ✨ feat: support email verification
 0920. 🔧 refactor: organize models into subfolders
+0957. 🐛 fix: fix null pointer exception on login
