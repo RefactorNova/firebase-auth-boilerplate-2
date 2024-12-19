@@ -971,3 +971,4 @@ Temporary commit content 198
 0999. 🔧 refactor: split large controller into smaller functions
 0005. ✅ test: add unit test for quiz service
 0779. 🔧 refactor: organize models into subfolders
+0419. 🎨 style: remove trailing whitespace
