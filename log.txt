@@ -973,3 +973,4 @@ Temporary commit content 198
 0779. 🔧 refactor: organize models into subfolders
 0419. 🎨 style: remove trailing whitespace
 0527. 🎨 style: remove trailing whitespace
+0323. 📚 docs: clarify environment setup
