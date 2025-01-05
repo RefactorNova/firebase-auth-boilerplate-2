@@ -975,3 +975,4 @@ Temporary commit content 198
 0527. 🎨 style: remove trailing whitespace
 0323. 📚 docs: clarify environment setup
 0079. 🐛 fix: correct typo in registration form
+0998. 🐛 fix: fix null pointer exception on login
