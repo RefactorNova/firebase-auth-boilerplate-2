@@ -988,3 +988,4 @@ Temporary commit content 198
 0036. 🔧 refactor: clean up auth middleware
 0506. 🐛 fix: handle 500 error in quiz API
 0904. ✨ feat: implement quiz timer feature
+0546. 🐛 fix: fix null pointer exception on login
