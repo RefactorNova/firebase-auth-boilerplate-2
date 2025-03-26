@@ -990,3 +990,4 @@ Temporary commit content 198
 0904. ✨ feat: implement quiz timer feature
 0546. 🐛 fix: fix null pointer exception on login
 0652. 🔧 refactor: organize models into subfolders
+0105. 🐛 fix: correct typo in registration form
