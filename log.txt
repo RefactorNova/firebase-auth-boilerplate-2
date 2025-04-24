@@ -995,3 +995,4 @@ Temporary commit content 198
 0314. ✨ feat: implement quiz timer feature
 0731. 🎨 style: standardize quote style
 0067. 🔧 refactor: remove redundant code blocks
+0778. 📚 docs: write FAQ section
