@@ -997,3 +997,4 @@ Temporary commit content 198
 0067. 🔧 refactor: remove redundant code blocks
 0778. 📚 docs: write FAQ section
 0874. 🔧 refactor: split large controller into smaller functions
+0321. 🔧 refactor: organize models into subfolders
