@@ -1000,3 +1000,4 @@ Temporary commit content 198
 0321. 🔧 refactor: organize models into subfolders
 0572. ✨ feat: add user authentication
 0356. 📚 docs: write FAQ section
+0730. ✅ test: test user registration edge cases
