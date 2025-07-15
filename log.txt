@@ -1010,3 +1010,4 @@ Temporary commit content 198
 0510. 🎨 style: rename variables for clarity
 0647. 🐛 fix: prevent crash on empty input
 0250. 📚 docs: update README with setup steps
+0860. 🔧 refactor: organize models into subfolders
